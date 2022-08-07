@@ -19,7 +19,7 @@ public final class Main {
 		String s1="123";
 		System.out.println(s.toString());
 		s=s+" is  ";
-		System.out.println("aaaaaaaaaaa");
+		System.out.println("");
 		
 		
 		
