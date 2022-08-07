@@ -18,6 +18,8 @@ public final class Main {
 		String s="abac";
 		
 		System.out.println(s.toString());
+		s=s+" is  ";
+		
 		
 	}   
 }
