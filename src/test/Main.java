@@ -15,14 +15,6 @@ public final class Main {
 
 	public static void main(String[] args) {
   
-		String s="abac";
-		
-		System.out.println(s.toString());
-		s=s+" is  ";
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println("As");
-		
+
 	}   
 }
