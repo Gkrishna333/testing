@@ -19,6 +19,7 @@ public final class Main {
 		
 		System.out.println(s.toString());
 		s=s+" is  ";
+		System.out.println(s);
 		
 		
 	}   
