@@ -19,7 +19,9 @@ public final class Main {
 		
 		System.out.println(s.toString());
 		s=s+" is  ";
-		
+		System.out.println();
+		System.out.println();
+		System.out.println();
 		
 	}   
 }
