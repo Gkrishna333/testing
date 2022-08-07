@@ -14,7 +14,11 @@ import java.util.stream.Stream;
 public final class Main {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		 System.out.println("865");
 
+=======
+		System.out.println("///");
+>>>>>>> branch 'master' of https://github.com/Gkrishna333/testing.git
 	}   
 }
