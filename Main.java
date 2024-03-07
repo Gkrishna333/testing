@@ -3,8 +3,3 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
-[D[D[D[B[B[B[A[A[A[A[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[main	
-
-
-
-
